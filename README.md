@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gindev77
-- 👀 I’m interested in javascript,react nodejs, mern, css
-- 🌱 I’m currently learning reactJs
-- 💞️ I’m looking to collaborate on javascript projects
+- 👀 I’m interested in javascript,react nodejs, mern, css, nextJs and React native.
+- 🌱 Actually, I keep learning ReactJs!
+- 💞️ I’m looking to work on javascript/reactJs projects.
 - 📫 How to reach me ...
 
 <!---
