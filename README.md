@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gindev77
-- 👀 I’m interested in javascript,react nodejs, mern, css, nextJs and React native.
-- 🌱 Actually, I am learning Devops tools (Ansible, Docker ...)!
-- 💞️ I am currently working for a client in my country.
-- 📫 I am not available at the moment.
+- 👀 I’m interested in javascript, reactJs nodejs, css.
+- 🌱 Currently, I study Javascript. 
+- 💞️ I am interested to work as a frontend developper in my country.
+- 📫 I am available. 
